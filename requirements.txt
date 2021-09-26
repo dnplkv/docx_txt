@@ -1,0 +1,10 @@
+Package     Version
+----------- -------
+docx2txt    0.8
+lxml        4.6.3
+pip         21.2.4
+python-docx 0.8.11
+setuptools  57.0.0
+wheel       0.36.2
+
+docx2txt~=0.8
