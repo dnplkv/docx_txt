@@ -4,7 +4,7 @@ import os
 import re
 
 # Passing docx file to process function
-path_to_file = 'docx_txt/Initial data.docx'
+path_to_file = 'Initial data.docx'
 text = docx2txt.process(path_to_file)
 
 # Saving content inside docx file into output.txt file
